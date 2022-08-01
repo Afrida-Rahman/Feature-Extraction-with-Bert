@@ -185,7 +185,7 @@ fabric.properties
 .idea
 
 # custom folder
-\Bert_extraction\bert_base\bert_pretrained_models
-\Bert_extraction\bert_base\bert_base_features
-\Bert_extraction\bert_base\bert_base_utils
+/Bert_extraction/bert_base/bert_pretrained_models
+/Bert_extraction/bert_base/bert_base_features
+/Bert_extraction/bert_base/bert_base_utils
 
